@@ -5,7 +5,7 @@ pipeline {
     stages{
         stage('Intro'){
             steps{
-                sh "Hello my name is Nayana and i am learning jenkins"
+                sh "my name is Nayana and i am learning jenkins"
             }
         }
     }
